@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyBezierChartLineChart">
+        <attr name="vertical_line_color" format="color" />
+        <attr name="left_and_right_margin" format="dimension" />
+        <attr name="vertical_line_top_margin" format="dimension" />
+        <attr name="vertical_line_bottom_margin" format="dimension" />
+        <attr name="vertical_line_stroke" format="dimension" />
+        <attr name="xtext_size" format="dimension" />
+        <attr name="xtext_color" format="color" />
+        <attr name="vertical_line_startcolor" format="color" />
+        <attr name="vertical_line_centercolor" format="color" />
+        <attr name="vertical_line_endcolor" format="color" />
+    </declare-styleable>
+</resources>
